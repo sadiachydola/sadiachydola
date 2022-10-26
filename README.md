@@ -3,10 +3,10 @@
 
 I am a graduate of computer science and engineering to a Computer Engineer in a demanding environment where I can use my talent, capacity, and creativity both for the advancement of my own career as well as for the benefit of the organization and planning to set up my own integration of emerging technologies.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate and hardworking from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">dolachowdhury10@gmail.com 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
