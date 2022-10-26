@@ -1,6 +1,5 @@
 ### Hi there 👋, Myself, Sadia Chowdhury Dola
 #### To explore and improve skill abilities.
-![To explore and improve skill abilities.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a graduate of computer science and engineering to a Computer Engineer in a demanding environment where I can use my talent, capacity, and creativity both for the advancement of my own career as well as for the benefit of the organization and planning to set up my own integration of emerging technologies.
 
