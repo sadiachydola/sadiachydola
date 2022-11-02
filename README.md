@@ -10,7 +10,7 @@ I am a graduate of computer science and engineering to a Computer Engineer in a 
 
 - 🌱 I’m currently learning creative and analytical abilities things.
 - 👯 I’m looking to collaborate on research or new projects 
-- 📫 How to reach me: dolachowdhury10@gmail.com 
+- 📫 How to reach me: dolachowdhury30@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadiachydola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SadiaChowdhuryDola/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sadiachowdhurydola/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SadiaDola20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/SadiaChowdhuryDola)  
